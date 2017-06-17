@@ -2,6 +2,7 @@
 A Black Forest Cake.
 
 # how to use(linux)
+```
 su root
 
 apt-get install git
@@ -11,6 +12,7 @@ git clone https://github.com/mark3236/cake.git
 cd cake
 
 sh lie.sh
+```
 
 # LICENSE(unlicense.org)
 This is free and unencumbered software released into the public domain.
